@@ -8,7 +8,7 @@
     </parent>
     <artifactId>podd-prototype</artifactId>
     <name>PODD :: Prototype</name>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <description>Prototype code to ensure that the basic methodology works and is fast enough.</description>
     <dependencies>
         <dependency>
